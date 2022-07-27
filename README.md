@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eunbiana (I need to change this username but idk how :/)
+- 👋 Hi, I’m @5ophs 
 - 👀 I’m interested in just coding
 - 🌱 I’m currently learning idk... know basic HTML, JS, Python and C++ on a very beginner level. Experienced with some APIs like the Discord one. I have also worked with Phaser libraries.
 - 💞️ I’m looking to collaborate on TBD.
