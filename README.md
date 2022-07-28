@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @5ophs 
-- 👀 I’m interested in just coding
-- 🌱 I’m currently learning idk... know basic HTML, JS, Python and C++ on a very beginner level. Experienced with some APIs like the Discord one. I have also worked with Phaser libraries.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning full on course for JavaScript.
 - 💞️ I’m looking to collaborate on TBD.
 - 📫 How to reach me here: loonastan08@gmail.com
 
